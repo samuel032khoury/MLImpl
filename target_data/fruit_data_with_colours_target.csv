@@ -1,0 +1,16 @@
+fruit_label,fruit_name,fruit_subtype,mass,width,height,color_score
+1,,granny_smith,180,8.0,6.8,0.59
+2,,mandarin,84,6.0,4.6,0.79
+2,,mandarin,80,5.9,4.3,0.81
+1,,braeburn,172,7.1,7.6,0.92
+1,,braeburn,154,7.0,7.1,0.88
+1,,golden_delicious,152,7.6,7.3,0.69
+1,,golden_delicious,156,7.7,7.1,0.69
+1,,golden_delicious,156,7.6,7.5,0.67
+3,,spanish_jumbo,356,9.2,9.2,0.75
+3,,spanish_jumbo,362,9.6,9.2,0.74
+3,,selected_seconds,204,7.5,9.2,0.77
+3,,turkey_navel,180,7.6,8.2,0.79
+3,,turkey_navel,154,7.2,7.2,0.82
+4,,unknown,116,6.0,7.5,0.72
+4,,unknown,116,6.1,8.5,0.71
